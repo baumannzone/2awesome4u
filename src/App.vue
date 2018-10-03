@@ -6,7 +6,7 @@
     </div>
     <router-view/>
     <div class="footer">
-      <p>By <a href="https://twitter.com/baumannzone">@baumannzone</a></p>
+      <p><a href="https://twitter.com/baumannzone" target="_blank">@baumannzone</a> | <a href="https://github.com/baumannzone/2awesome4u" target="_blank">Github</a></p>
     </div>
   </div>
 </template>
