@@ -4,6 +4,9 @@
 ## 🔊Live Demo 🔊
 https://speech-api-demo.netlify.com/#/
 
+### Slides
+https://slides.com/baumannzone/text-to-speech/
+
 ## Project setup
 ```
 yarn install
