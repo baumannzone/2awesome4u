@@ -1,11 +1,13 @@
 # From text to speech with javascript
-> Myb, 2 awesome 4 u :trollface:
+> :trollface: Watch out, this repo maybe is 2 awesome 4 u :trollface:
 
 ## 🔊Live Demo 🔊
 https://speech-api-demo.netlify.com/#/
 
-### Slides
+### Slides 📝
 https://slides.com/baumannzone/text-to-speech/
+
+🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
 
 ## Project setup
 ```
