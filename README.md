@@ -21,3 +21,7 @@ yarn install
 ```
 yarn run serve
 ```
+
+
+### Maintainer
+[Jorge Baumann](https://twitter.com/baumannzone)
