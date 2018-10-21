@@ -4,10 +4,11 @@
 
 > :trollface: Watch out, this repo maybe is 2 awesome 4 u :trollface:
 
-## 🔊Live Demo 🔊
+## Live Demo 🔊🔊
 https://web-speech-api-js.netlify.com
 
-### Slides 📝
+
+### Slides 📝📝
 https://slides.com/baumannzone/text-to-speech/
 
 
