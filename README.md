@@ -1,13 +1,15 @@
+
+
 # From text to speech with javascript
 > :trollface: Watch out, this repo maybe is 2 awesome 4 u :trollface:
 
 ## 🔊Live Demo 🔊
-https://speech-api-demo.netlify.com/#/
+https://web-speech-api-js.netlify.com
 
 ### Slides 📝
 https://slides.com/baumannzone/text-to-speech/
 
-🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
+
 
 ## Project setup
 ```
