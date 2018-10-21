@@ -1,4 +1,4 @@
-
+![main](./src/img/main.png)
 
 # From text to speech with javascript
 > :trollface: Watch out, this repo maybe is 2 awesome 4 u :trollface:
@@ -10,7 +10,6 @@ https://web-speech-api-js.netlify.com
 https://slides.com/baumannzone/text-to-speech/
 
 
-
 ## Project setup
 ```
 yarn install
@@ -19,24 +18,4 @@ yarn install
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
 ```
