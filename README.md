@@ -1,6 +1,7 @@
+# From Text to Speech with Javascript
+
 ![main](./src/img/main.png)
 
-# From text to speech with javascript
 > :trollface: Watch out, this repo maybe is 2 awesome 4 u :trollface:
 
 ## 🔊Live Demo 🔊
@@ -10,7 +11,7 @@ https://web-speech-api-js.netlify.com
 https://slides.com/baumannzone/text-to-speech/
 
 
-## Project setup
+### Project setup
 ```
 yarn install
 ```
