@@ -7,8 +7,11 @@
 ## Live Demo 🔊🔊
 https://web-speech-api-js.netlify.com
 
+## Medium Post 📝
+https://medium.com/@baumannsito/make-your-browser-talk-with-javascript-614546028076
 
-### Slides 📝📝
+
+### Slides
 https://slides.com/baumannzone/text-to-speech/
 
 
