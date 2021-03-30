@@ -8,7 +8,7 @@ https://web-speech-api-js.netlify.com
 > :trollface: Watch out, this repo maybe is 2 awesome 4 u :trollface:
 
 ## 📝 Medium Post 
-https://medium.com/@baumannsito/make-your-browser-talk-with-javascript-614546028076
+https://baumannzone.medium.com/make-your-browser-talk-with-javascript-614546028076
 
 
 ### 📜 Slides 
