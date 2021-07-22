@@ -2,11 +2,17 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/custom">Custom</router-link>
+      <router-link to="/custom">Custom Settings</router-link>
     </div>
     <router-view/>
     <div class="footer">
-      <p><a href="https://twitter.com/baumannzone" target="_blank">@baumannzone</a> | <a href="https://github.com/baumannzone/2awesome4u" target="_blank">Github</a></p>
+      <p>
+        <a href="https://twitter.com/baumannzone" target="_blank">Twitter</a> 
+        |
+        <a href="https://instagram.com/baumannzone" target="_blank">Instagram</a> 
+        |
+        <a href="https://github.com/baumannzone/2awesome4u" target="_blank">Github</a>
+      </p>  
     </div>
   </div>
 </template>
