@@ -5,26 +5,26 @@ https://web-speech-api-js.netlify.com
 
 ![main](./src/img/main.png)
 
-> :trollface: Watch out, this repo maybe is 2 awesome 4 u :trollface:
+> :trollface: Watch out, this repo may be too awesome for you
 
 ## 📝 Medium Post 
 https://baumannzone.medium.com/make-your-browser-talk-with-javascript-614546028076
 
 
-### 📜 Slides 
+## 📜 Slides 
 https://slides.com/baumannzone/text-to-speech/
 
 
-### Project setup
+## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 yarn run serve
 ```
 
 
-### Maintainer
-[Jorge Baumann](https://twitter.com/baumannzone)
+## Maintainer
+[Jorge Baumann](https://instagram.com/baumannzone)
